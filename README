@@ -1,0 +1,10 @@
+# AWS Security & Infrastructure Projects
+
+Hands-on AWS projects covering identity, networking, encryption, and
+secure serverless patterns.
+
+## Projects
+
+| Project | What it demonstrates | Services |
+|---|---|---|
+| [Secrets Manager + Lambda](./01-secrets-manager-lambda) | Serverless secret retrieval with the AWS Parameters and Secrets Lambda Extension, local caching verified via CloudWatch timing | Secrets Manager, Lambda, IAM |
