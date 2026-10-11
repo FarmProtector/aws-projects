@@ -1,8 +1,5 @@
 # Threat Detection with GuardDuty
 
-**Author:** Sahil Khetarpal  
-**Email:** sahilkpal@gmail.com
-
 ---
 
 ![Project overview](screenshots/01-overview.png)
