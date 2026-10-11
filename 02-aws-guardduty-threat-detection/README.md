@@ -1,7 +1,5 @@
 # Threat Detection with GuardDuty
 
----
-
 ![Project overview](screenshots/01-overview.png)
 
 ## Introducing Today's Project!
